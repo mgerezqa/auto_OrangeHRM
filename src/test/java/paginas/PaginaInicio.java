@@ -25,7 +25,6 @@ public class PaginaInicio {
 		txtPassword.sendKeys(password);
 	}
 	
-	
 	public void hacerClickEnLogin() {	
 		buttonLogin.click();
 	}
